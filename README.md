@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tikava (A.K Toilybay Sarsenbayev)
+- 👋 Hi, I’m @Tikava
 - 🤖 I'm 18.
 - 🎓 I'm doing my bachelor degree at SDU. My specialty is Computer Science.
 - 🌱 I’m currently learning Java
