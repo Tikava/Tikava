@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tikava
 - 🤖 I'm 18.
 - 🎓 I'm doing my bachelor degree at SDU. My specialty is Computer Science.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML, CSS, JS.
 - 📫 You can find me on telegram @t1kava and mail on wavoleniu@gmail.com
 
 <!---
