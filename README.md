@@ -4,7 +4,6 @@
 - 📚 I'm a student at SDU (Suleyman Demirel University).
 - 💻 I'm experienced in **Java** and currently learning **VueJs**.
 - 🧠 I have a keen interest in problem-solving and programming challenges.
-- 🌐 You can find me on [Telegram](https://t.me/googl3r).
 
 ## 🛠 Skills
 - Java
