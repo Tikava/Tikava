@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - 📚 I'm a student at SDU (Suleyman Demirel University).
-- 💻 I'm experienced in **Java** and currently learning **VueJs**.
+- 💻 I'm experienced in **Java** and currently learning **Spring, Python**.
 - 🧠 I have a keen interest in problem-solving and programming challenges.
 
 ## 🛠 Skills
