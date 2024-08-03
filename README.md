@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Toilybay Sarsenbayev!
+# Hi there, I'm Toilybay!
 
-## 🙋‍♂️ About Me
-- 📚 I'm a student at SDU.
-- 💻 I'm currently learning **Django, Django REST Framework**.
-- 🧠 I have a keen interest in problem-solving and programming challenges.
+## Me
+- I'm a student at SDU.
+- Working at [ALSECO](https://alseco.kz) as Conversatinal AI Developer.
+- Currently learning **Django**.
 
-## 📫 How to Reach Me
+## Contacts
 - Telegram: [googl3r](https://t.me/googl3r)
   
 ---
