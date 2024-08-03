@@ -1,7 +1,7 @@
 # Hi there, I'm Toilybay!
 
 ## Me
-- I'm a student at SDU.
+- I'm a student at [SDU](https://sdu.edu.kz).
 - Working at [ALSECO](https://alseco.kz) as Conversatinal AI Developer.
 - Currently learning **Django**.
 
