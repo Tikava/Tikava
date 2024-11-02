@@ -1,7 +1,7 @@
 # Hi there, I'm Toilybay!
 
 - I'm a student at [SDU](https://sdu.edu.kz).
-- Working at [ALSECO](https://alseco.kz) as a Software Engineer.
+- Working at [ALSECO](https://alseco.kz) as a Software Developer.
 - Currently learning Backend Development.
 
 ## Contacts
